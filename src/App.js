@@ -7,6 +7,8 @@ import MyNavbar from './components/mynavbar/MyNavbar'
 import TitleMessage from './components/title-message/TitleMessage'
 import About from './pages/about/about'
 import BgImage from "./assets/img/parallex/background.webp";
+import Skills from './pages/skills/skills'
+
 
 
 import './App.css';
@@ -35,6 +37,14 @@ const App=()=> {
           </div>
         </Parallax>
       </div>
+      <div>
+            <Container className="container-box rounded">
+              <Fade duration={500}>
+              <Skills/>
+              </Fade>
+            </Container>
+          </div>
+      
     </div>
   );
 }

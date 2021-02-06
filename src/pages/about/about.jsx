@@ -26,7 +26,7 @@ const About = () => {
                         Hi there! I am <strong>&nbsp;B V SAI KIRAN</strong>
                 <br />A passionate programmer and a Coach, born and brought up in India. I am a Full Stack Web Developer with React.js, Redux, Express.js, Node.js, and PostgreSQL as my tech stack.
                 <br />
-                In 2019, I successfully completed my Engineering with specialization in 'Electronics and Telecommunication'.
+                In 2019, I successfully completed my Engineering with specialization in 'Computer Science and Engineering'.
                 <br />
                 Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
                 <br />
