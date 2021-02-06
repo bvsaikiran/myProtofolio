@@ -1,5 +1,6 @@
 import React from 'react'
 import Fade from 'react-reveal/Fade'
+import Slide from 'react-reveal/Slide'
 import {Parallax}  from 'react-parallax'
 import Container from 'react-bootstrap/Container'
 import MyCarousel from './components/myCarousel/MyCarousel'
@@ -12,6 +13,7 @@ import Skills from './pages/skills/skills'
 
 
 import './App.css';
+import Experience from './pages/experience/Experience'
 
 
 
@@ -39,9 +41,16 @@ const App=()=> {
       </div>
       <div>
             <Container className="container-box rounded">
-              <Fade duration={500}>
+              <Slide top duration={500}>
               <Skills/>
-              </Fade>
+              </Slide>
+            </Container>
+          </div>
+          <div>
+            <Container className="container-box rounded">
+              <Slide left duration={500}>
+                <Experience/>
+              </Slide>
             </Container>
           </div>
       
