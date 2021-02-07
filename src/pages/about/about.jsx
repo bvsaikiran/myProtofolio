@@ -24,13 +24,11 @@ const About = () => {
                     <Col xs={12} md={6}>
                         <Row className=" align-items-start p-2 my-details rounded">
                         Hi there! I am <strong>&nbsp;B V SAI KIRAN</strong>
-                <br />A passionate programmer and a Coach, born and brought up in India. I am a Full Stack Web Developer with React.js, Redux, Express.js, Node.js, and PostgreSQL as my tech stack.
+                <br />A passionate programmer and designer, born and brought up in India. I am a Quick learner and currently working as Senior Build Engineer.
                 <br />
                 In 2019, I successfully completed my Engineering with specialization in 'Computer Science and Engineering'.
                 <br />
-                Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
-                <br />
-                Along with that, I also help people as a COACH on their journey of becoming a professional programmer. 
+                As a build engineer i need to build the code and release the product for the clients.
                 <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
                 <br /> <br />
                         </Row>

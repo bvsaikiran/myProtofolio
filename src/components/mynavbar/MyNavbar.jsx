@@ -1,7 +1,8 @@
 import React from 'react'
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
-import logo from '../../assets/icons/logow.webp'
+import logo from '../../assets/icons/1.png'
+
 
 import './mynavbar.style.css'
 
@@ -21,7 +22,6 @@ const MyNavbar = () => {
       <Nav.Link href="#experience">Experience</Nav.Link>
       <Nav.Link href="#projects">Projects</Nav.Link>
       <Nav.Link href="#contact">Contact Me</Nav.Link>
-
     </Nav>
   </Navbar.Collapse>
 </Navbar> 

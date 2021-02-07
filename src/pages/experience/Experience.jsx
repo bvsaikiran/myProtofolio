@@ -46,10 +46,18 @@ const Experience = () => {
                   </Card.Text>
                 </div>
               </Card.Body>
+              
             </Card>
           </Tilt>
+          
         </Container>
+        
             </Jumbotron>
+            <div class="text-center">
+            <a href="https://drive.google.com/file/d/1PEK9WkCr97Cayt1HbkL5uzAZK2NPIoZB/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <button className="glow-on-hover"  >Download Resume</button>
+            </a>
+            </div>
             
         </div>
     )
