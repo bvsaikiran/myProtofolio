@@ -31,7 +31,7 @@ const Experience = () => {
                     <br/>
                     <strong> Description </strong>
                     <ul className="text-left">
-                      <li><strong>Developed &amp; enhanced</strong> Automating, Configuring and deploying instances on  IIS Web Server</li>
+                      <li><strong>Developed &amp; enhanced</strong> Automating, Configuring and deploying instances on  IIS Web Server.</li>
                       <li><strong>Performed</strong> Smoke/Sanity tests for the applications deployed and also troubleshooted the application for the issues that arise as part of the smoke test process.
                       </li>
                       <li><strong>Provided</strong> Continuous Build and Deployments to multiple environments like Dev, QA  and UAT.

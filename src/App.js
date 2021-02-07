@@ -14,6 +14,7 @@ import Skills from './pages/skills/skills'
 
 import './App.css';
 import Experience from './pages/experience/Experience'
+import ProjectTimeline from './components/project-timeline/Timeline'
 
 
 
@@ -50,6 +51,13 @@ const App=()=> {
             <Container className="container-box rounded">
               <Slide left duration={500}>
                 <Experience/>
+              </Slide>
+            </Container>
+          </div>
+          <div>
+            <Container className="container-box rounded">
+              <Slide left duration={500}>
+                <ProjectTimeline/>
               </Slide>
             </Container>
           </div>
